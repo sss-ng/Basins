@@ -25,3 +25,25 @@ ___
 ## Example running `cfnewt`
 
 `cfnewt(1, 0, 0, 1, -5, -5, 5, 5, 500)`
+
+
+<p>Starting rendering process...
+Working on pixel column 100 out of 500
+Working on pixel column 200 out of 500
+Working on pixel column 300 out of 500
+Working on pixel column 400 out of 500
+Working on pixel column 500 out of 500
+
+Plotting...
+
+Roots
+Red:   -1.000000+0.000000i 
+Green: 0.500000+0.866025i 
+Blue:  0.500000-0.866025i 
+
+The number of uncolored pixels is 0
+
+Elapsed time is 14.815667 seconds.</p>
+![Plot of Basins](https://github.com/sam-snarr/Basins/blob/master/basin.png)
+
+
