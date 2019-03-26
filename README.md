@@ -24,7 +24,7 @@ ___
 
 ## Example running `cfnewt`
 
-`cfnewt(1, 0, 0, 1, -5, -5, 5, 5, 500)`
+`>> cfnewt(1, 0, 0, 1, -5, -5, 5, 5, 500)`
 
 
 > Starting rendering process...
